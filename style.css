@@ -1,0 +1,270 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aliceblue;
+}
+.progress{
+    display: flex;
+    justify-content: space-between;
+}
+
+.season-1{
+    display: flex;
+    background-color: white;
+    width: 1080px;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.two{
+    display: flex;
+    padding-left: 50px;
+}
+input{
+    width: 400px;
+    height: 30px;
+    border-color: white;
+    border: transparent;
+    
+}
+.icon-01{
+    padding-left: 2px;
+    color: gray;
+    padding-right: 20px;
+}
+
+.icon-02{
+    padding-left: 250px;
+}
+
+.icon-03{
+    margin-left: 30px;
+}
+.image{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
+
+.icon-04{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.cindy{
+    font-size: large;
+    margin-left: 20px;
+}
+
+.section{
+    display: flex;
+    padding-left: 30px;
+    padding-top: 19px;
+    background-color: black;
+    color: white;
+    
+}
+
+.season{
+    background-color: black;
+    width: 300px;
+}
+
+.section-1{
+    color: gray;
+    display: flex;
+    justify-content: center;
+}
+.dash{
+    font-size: 18px;
+}
+
+.hot{
+    background-color: red;
+    width: 43px;
+    font-size: 26px;
+    border-radius: 3px;
+    margin-left: 30px;
+    color: white;
+    
+}
+.icon-3{
+    margin-right: 20px;
+}
+
+.icon-4{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.section-2{
+    display: flex;
+    color: gray;
+    justify-content: center;
+}
+
+.widget{
+    font-size: 18px;
+    margin-right: 20px;
+}
+.plus{
+    font-size: 22px;
+    background-color: rgb(64, 64, 241);
+    border-radius: 3px;
+    margin-left: 20px;   
+}
+.icon-5{
+    margin-right: 34px;
+}
+.icon-6{
+    margin-left: 20px;
+}
+
+.section-3{
+    font-size: 9px;
+    color: gray;
+    margin-left: 70px;
+}
+
+.section-4{
+    color: gray;
+    display: flex;
+
+}
+.ul{
+    color: gray;
+    font-size: small;
+}
+.typ{
+    font-size: 18px;
+    margin-left: 30px;
+}
+.icon-4{
+    font-size: 20px;
+}
+.section-5{
+    display: flex;
+    color: gray;
+    margin-left: 25px;
+}
+.basic{
+    font-size: 18px;
+}
+.icon-6{
+    margin-left: 100px;
+}
+.icon-7{
+    margin-left: 50px;
+}
+
+.form{
+    font-size: 6px;
+    color: gray;
+    
+}
+
+.forms{
+    color: gray;
+    font-size: 18px;
+    margin-left: 40px;
+}
+
+.season-6{
+    display: flex;
+    margin-left: 25px;
+    color: gray;
+}
+.icon-9{
+    margin-left: 70px;
+    font-size: 20px;
+
+}
+.icon-8{
+    font-size: 20px;
+
+}
+.maps{
+    font-size: small;
+    color: gray;
+}
+.season-7{
+    display: flex;
+    color: gray;
+    margin-left: 30px;
+}
+
+.gmap{
+    font-size: 20px;
+    color: gray;
+    margin-left: 30px;
+}
+.icon-10{
+    font-size: 20px;
+
+}
+
+.grph{
+    /* padding: 1rem; */
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap:10px !important;
+    /* background-color: white; */
+
+}
+
+.border{
+    border: 2px solid black;
+    height: 100px;
+    
+}
+.padding{
+    padding:4rem 1rem 0rem !important;
+    
+}
+
+ .graph-1{
+    background-color: white;
+    padding: 3px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 900px;
+    height: 200px;
+    grid-gap: 3px;
+    margin: 30px;
+    padding: 12px;
+    
+}
+
+.graph-2{
+    background-color: white;
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    grid-gap: 10px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
